@@ -1,5 +1,9 @@
 # jobs_boards.md
 
+Workshop Recording: https://youtu.be/g-dcDmt_bOM
+
+
+
 | Category              | Website                                                       |
 |-----------------------|---------------------------------------------------------------|
 | **Direct Apply Sites**| [Otta](https://otta.com/)                                     |
