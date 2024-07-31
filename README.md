@@ -1,4 +1,5 @@
-# jobs_boards.md
+# Navigating Jobs Boards: Recording Workshop and Resources
+## Sub heading: Where are all the jobs?!
 
 :vhs: Workshop Recording [click here](https://youtu.be/g-dcDmt_bOM)
 
