@@ -1,6 +1,6 @@
 # jobs_boards.md
 
-Workshop Recording: https://youtu.be/g-dcDmt_bOM
+:vhs: Workshop Recording [click here](https://youtu.be/g-dcDmt_bOM)
 
 
 
