@@ -11,6 +11,7 @@
 |                       | [Workable](https://jobs.workable.com/)                        |
 |                       | [Cord](https://cord.com/)                                     |
 |                       | [Hackajob](https://hackajob.com/talent)                       |
+|                       | [Flexa Careers](https://flexa.careers/)                                                             |
 | **Job Aggregators**   | [LinkedIn Jobs](https://www.linkedin.com/jobs/)               |
 |                       | [Indeed UK](https://uk.indeed.com/)                           |
 |                       | [Totaljobs](https://www.totaljobs.com/)                       |
