@@ -7,15 +7,15 @@
 
 | Category              | Website                                                       | Benefits |
 |-----------------------|---------------------------------------------------------------|----------|
-| **Direct Apply Sites**| [Otta](https://otta.com/)                                     | Curated job matches based on your profile and preferences. |
-|                       | [Workable](https://jobs.workable.com/)                        | Wide range of job listings with easy-to-use application tools. |
+| **Direct Apply Sites**| [Otta](https://otta.com/)                                     | Curated job matches with well written job-specs. Popular board in tech. |
+|                       | [Workable](https://jobs.workable.com/)                        | The customer-facing end of the popular ATS, Workable, which means you're always applying direct to the company. |
 |                       | [Cord](https://cord.com/)                                     | Direct chat with hiring managers for tech roles. |
-|                       | [Hackajob](https://hackajob.com/talent)                       | Skills-based job matching with a focus on tech talent. |
-|                       | [Flexa Careers](https://flexa.careers/)                       | Verified listings for flexible and remote work opportunities. |
-| **Job Aggregators**   | [LinkedIn Jobs](https://www.linkedin.com/jobs/)               | Leverages your network for personalized job recommendations. |
-|                       | [Indeed UK](https://uk.indeed.com/)                           | Extensive job database with powerful search filters. |
-|                       | [Totaljobs](https://www.totaljobs.com/)                       | Comprehensive job listings across various industries in the UK. |
-|                       | [Google Careers](https://www.google.com/about/careers/applications/jobs/results) | Search engine optimization for targeted job results. |
+|                       | [Hackajob](https://hackajob.com/talent)                       | Complete coding challenges to get matched with tech companies. |
+|                       | [Flexa Careers](https://flexa.careers/)                       | Priorities remote-first or flexible companies with nice cultures. |
+| **Job Aggregators**   | [LinkedIn Jobs](https://www.linkedin.com/jobs/)               | Can be good to find opportunities but be careful of applying to too many recruitment companies. Where possible, find the company career page and apply there.|
+|                       | [Indeed UK](https://uk.indeed.com/)                           | Extensive job database with powerful search filters. Apply direct on the company page if possible rather than though Indeed. |
+|                       | [Totaljobs](https://www.totaljobs.com/)                       | Similar to Indeed, find the one you prefer using. |
+|                       | [Google Careers](https://www.google.com/about/careers/applications/jobs/results) | Sometimes roles pop up here that aren't advertised elsewhere so worth checking|
 | **Makers Related**    | Apply to Makers Jobs: #_jobhunters, #external_jobs, #careers  | Direct access to community-shared job opportunities. |
 | **Other**             | [Work in Startups](https://workinstartups.com/)               | Specialized listings for startup and early-stage company jobs. |
 |                       | [Wellfound](https://wellfound.com/)                           | Startup-focused job board with detailed company profiles. |
