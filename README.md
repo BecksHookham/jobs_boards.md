@@ -1,4 +1,4 @@
-# Navigating Jobs Boards: Recording Workshop and Resources
+# Navigating Jobs Boards: Workshop Recording and Resources
 ## A.K.A. Where are all the jobs?!
 
 :vhs: Workshop Recording [click here](https://youtu.be/g-dcDmt_bOM)
@@ -19,6 +19,7 @@
 | **Makers Related**    | Apply to Makers Jobs: #_jobhunters, #external_jobs, #careers  | Direct access to community-shared job opportunities. |
 | **Other**             | [Work in Startups](https://workinstartups.com/)               | Specialized listings for startup and early-stage company jobs. |
 |                       | [Wellfound](https://wellfound.com/)                           | Startup-focused job board with detailed company profiles. |
+|                       | [Gwork](https://www.mygwork.com/en/jobs)                      | Jobs board for the LGBTQ+ community, Gwork :rainbow_flag:.|
 | **Graduate Programmes**| [Prospects](https://www.prospects.ac.uk/graduate-jobs)       | Centralized platform for UK graduate jobs and career advice. |
 |                       | [Totaljobs](https://www.totaljobs.com/)                       | Wide range of graduate opportunities with detailed filters. |
 |                       | [Gradcracker](https://www.gradcracker.com/)                   | Dedicated to STEM graduates with detailed program information. |
