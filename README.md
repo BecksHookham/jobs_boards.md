@@ -21,7 +21,7 @@
 |                       | [Wellfound](https://wellfound.com/)                           | Startup-focused job board with detailed company profiles. |
 |                       | [Gwork](https://www.mygwork.com/en/jobs)                      | Jobs board for the LGBTQ+ community, Gwork :rainbow_flag:.|
 | **Graduate Programmes**| [Prospects](https://www.prospects.ac.uk/graduate-jobs)       | Centralized platform for UK graduate jobs and career advice. |
-|                       | [Totaljobs](https://www.totaljobs.com/)                       | Wide range of graduate opportunities with detailed filters. |
+|                       | [Targetjobs](https://targetjobs.co.uk/)                       | Wide range of graduate opportunities with detailed filters. |
 |                       | [Gradcracker](https://www.gradcracker.com/)                   | Dedicated to STEM graduates with detailed program information. |
 |                       | [Milkround](https://www.milkround.com/)                       | Focused on graduate schemes and internships across the UK. |
 | **Apprenticeships**   | [Gov UK Apprenticeships](https://www.gov.uk/apply-apprenticeship) | Official government resource for finding apprenticeships. |
