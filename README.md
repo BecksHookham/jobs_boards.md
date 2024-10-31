@@ -9,6 +9,14 @@ Job sites that I (Becks) find most useful:
 - [Workable](https://jobs.workable.com/)
 - [Welcome to the Jungle](https://www.welcometothejungle.com/en) 
 
+Key Words to Seach
+- (Junior / Entry-Level) Full Stack Developer
+- (Junior / Entry-Level) Developer
+- (Junior / Entry-Level) Cloud Engineer
+- (Junior / Entry-Level) Python / React [Insert coding language]
+- (Junior / Entry-Level) Cloud / DevOps Engineer
+- (Junior / Entry-Level) Tester / SDET / Test Consultant / 
+
 
 
 | Category              | Website                                                       | Benefits |
