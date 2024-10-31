@@ -3,6 +3,12 @@
 
 :vhs: Workshop Recording [click here](https://youtu.be/g-dcDmt_bOM)
 
+Job sites that I (Becks) find most useful:
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+- [Indeed UK](https://uk.indeed.com/)
+- [Workable](https://jobs.workable.com/)
+- [Welcome to the Jungle](https://www.welcometothejungle.com/en) 
+
 
 
 | Category              | Website                                                       | Benefits |
