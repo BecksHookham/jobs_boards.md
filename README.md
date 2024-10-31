@@ -7,9 +7,9 @@
 
 | Category              | Website                                                       | Benefits |
 |-----------------------|---------------------------------------------------------------|----------|
-| **Direct Apply Sites**| [Otta](https://otta.com/)                                     | Curated job matches with well written job-specs. Popular board in tech. |
+| **Direct Apply Sites**| [Welcome to the Jungle](https://www.welcometothejungle.com/en)                                    | Curated job matches with well written job-specs. Popular board in tech. This means roles get loads of applications. |
 |                       | [Workable](https://jobs.workable.com/)                        | The customer-facing end of the popular ATS, Workable, which means you're always applying direct to the company. |
-|                       | [Cord](https://cord.co/)                                    | Direct chat with hiring managers for tech roles. |
+|                       | [Cord](https://cord.co/)                                    | Direct chat with hiring managers for tech roles. You need some tech experience to actually use it to apply but also useful as a search tool before navigating to the company page to apply.|
 |                       | [Hackajob](https://hackajob.com/talent)                       | Complete coding challenges to get matched with tech companies. |
 |                       | [Flexa Careers](https://flexa.careers/)                       | Priorities remote-first or flexible companies with nice cultures. |
 | **Job Aggregators**   | [LinkedIn Jobs](https://www.linkedin.com/jobs/)               | Can be good to find opportunities but be careful of applying to too many recruitment companies. Where possible, find the company career page and apply there.|
