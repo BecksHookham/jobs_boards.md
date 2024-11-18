@@ -75,8 +75,6 @@ Boost your job search success with these strategies:
   - Job specs that use phrases like "My Client" instead of naming a company are red flags.  
   - To double-check, google the company page of any job you're considering applying to.
 
-### Job Search Hacks:
-
 - **Use Boolean Search Strings**  
   On platforms like LinkedIn or Google, use Boolean search terms to refine results. For example:  
   `("Junior Software Engineer" OR "Entry-Level Developer") AND ("Remote" OR "Hybrid")`
