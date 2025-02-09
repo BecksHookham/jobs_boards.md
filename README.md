@@ -12,22 +12,60 @@ Here are the job sites that I (Becks) find most useful:
 - [Workable](https://jobs.workable.com/)
 - [Welcome to the Jungle](https://www.welcometothejungle.com/en)
 
+To see a comprehensive list of recommended jobs boards, [click here](#my-section-title)
+
+Please remember to include Apprenticeships in your job search. The most comprehensive place to find them is the (Government Apprenticeship website)[https://www.gov.uk/apply-apprenticeship].
+If you need a reminder of eligibility criteria, we made a (video explainer)[https://youtu.be/UMZ-gJYmBFw]
+
 ## Keywords to Search
 
-Use these keywords to find relevant roles:
-
-- **Software**
-- **Full Stack Developer**
-- **Developer**
-- **Cloud Engineer**
-- **Python / React / [Insert Coding Language]**
-- **Cloud / DevOps Engineer**
-- **Tester / SDET / Test Consultant**
-
-*Tip: Pre-fix these keywords with "Junior" or "Entry-Level" (e.g., Junior Software Engineer) for more targeted searches.*
+In practice, you don't need to use all of these search terms to find roles. Usually frequent searches of "junior software" or "associate software" or "graduate software" will bring up all kinds of roles relevant for us.
 
 
+| Software Development                  |                                     |                                 |
+|---------------------------------------|-------------------------------------|---------------------------------|
+| (Junior) Software Developer           | (Junior) Software Engineer          | Associate Software Developer   |
+| Graduate Software Developer           | Software Consultant                 | Entry-Level Software Developer |
+| Full-Stack / Front-End / Back-End Developer | Python / React / [Insert Coding Language] |                                 |
 
+
+________________________________________________________________________________
+
+| DevOps and Cloud Engineering          |                                     |                                 |
+|--------------------------------------|-------------------------------------|---------------------------------|
+| Cloud / DevOps Engineer              | Associate DevOps                   | Junior Platform Engineer        |
+| Junior Integrations Engineer         | Junior Site Reliability Engineer    | Junior Infrastructure Engineer  |
+
+
+________________________________________________________________________________
+
+| Quality Engineering                  |                                     |                                 |
+|--------------------------------------|-------------------------------------|---------------------------------|
+| Tester / SDET / Test Consultant      | (Junior) Test Engineer / Quality Engineer / SDET / QA Tester | Testing Consultant |
+| Junior Automation Tester             | Developer In Test                   |                                 |
+
+
+________________________________________________________________________________
+
+| Technical Support & Solutions Engineering |                                  |                                 |
+|-------------------------------------------|-----------------------------------|---------------------------------|
+| Technical Support Engineer               | Support Engineer                 | Customer Support Engineer       |
+| Junior Tech Ops                          | Junior Product Engineer          | Junior/Associate Solutions Engineer |
+
+
+________________________________________________________________________________
+
+| Data Engineering & Analytics            |                                     |           
+|-----------------------------------------|-------------------------------------|
+| Junior/Graduate Data Engineer           | Junior/Graduate Data Analyst       |                             
+
+
+
+
+
+________________________________________________________________________________
+
+## Recommended Jobs Boards
 
 
 | **Category**          | **Website**                                                  | **Benefits**                                                                                     |
