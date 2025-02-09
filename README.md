@@ -14,8 +14,8 @@ Here are the job sites that I (Becks) find most useful:
 
 To see a comprehensive list of recommended jobs boards, [click here](#my-section-title)
 
-Please remember to include Apprenticeships in your job search. The most comprehensive place to find them is the (Government Apprenticeship website)[https://www.gov.uk/apply-apprenticeship].
-If you need a reminder of eligibility criteria, we made a (video explainer)[https://youtu.be/UMZ-gJYmBFw]
+Please remember to include Apprenticeships in your job search. The most comprehensive place to find them is the [Government Apprenticeship website](https://www.gov.uk/apply-apprenticeship).
+If you need a reminder of eligibility criteria, we made a [video explainer](https://youtu.be/UMZ-gJYmBFw)
 
 ## Keywords to Search
 
