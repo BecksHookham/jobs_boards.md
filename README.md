@@ -17,7 +17,7 @@ To see a comprehensive list of recommended jobs boards, [scroll down](#Recommend
 Please remember to include Apprenticeships in your job search. The most comprehensive place to find them is the [Government Apprenticeship website](https://www.gov.uk/apply-apprenticeship).
 If you need a reminder of eligibility criteria, we made a [video explainer](https://youtu.be/UMZ-gJYmBFw)
 
-Right at th bottom of this page, you'll find more [search hacks](#Search-Hacks).
+Right at the bottom of this page, you'll find more [search hacks](#Search-Hacks).
 
 ## Keywords to Search
 
@@ -73,6 +73,7 @@ ________________________________________________________________________________
 | **Category**          | **Website**                                                  | **Benefits**                                                                                     |
 |-----------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | **Direct Apply Sites**| [Welcome to the Jungle](https://www.welcometothejungle.com/en) | Curated job matches with well-written job specs. Popular board in tech, so roles get many applications. |
+|                       | [Simplify](https://simplify.jobs/dashboard)                 | Companies post their adds on the website but it also includes roles scraped from the internet. |
 |                       | [Workable](https://jobs.workable.com/)                      | The customer-facing end of the popular ATS, Workable, meaning you're always applying directly to the company. |
 |                       | [Cord](https://cord.co/)                                    | Direct chat with hiring managers for tech roles. You need some tech experience to get your account verified. It’s still useful for navigating to company pages to apply. In rare cases, job ads are exclusive to Cord. If so, consider contacting the recruiter via LinkedIn with an application. |
 |                       | [Hackajob](https://hackajob.com/talent)                     | Complete coding challenges to get matched with tech companies.                                   |
